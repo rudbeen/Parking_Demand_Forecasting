@@ -7,7 +7,7 @@
 ⏳ 기간 : 2021.06.10 ~ 2021. 07.30
 
 |이름|역할|
-|:---:|:---:|---|
+|:---:|:---:|
 |김종윤|Feature Engineering, Modeling, Hyperparameter Tuning|
 |박경빈|Feature Engineering, Feature A/B Test, Hyperparameter Tuning|
 |조은서|데이터 전처리, Feature Engineering, Feature A/B Test, Hyperparameter Tuning|
