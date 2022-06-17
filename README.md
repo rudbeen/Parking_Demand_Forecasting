@@ -10,7 +10,12 @@
 
 ⏳ 기간 : 2021.06.10 ~ 2021. 07.30
 
-- Catboost Regressor를 활용한 예측 모델링을 진행했습니다.
+📝 과정
+- EDA를 통해 데이터의 분포 확인 후, Scale을 조정하고 이상치 제거
+- 아파트 단지 별 통계값과 지역별 인구 데이터를 활용하여 Feature를 생성
+- Catboost Regressor를 활용한 예측 모델링
+- Feature A/B Test
+- Hyperparameter Tuning
 
 |이름|역할|
 |:---:|:---:|
